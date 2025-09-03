@@ -1,12 +1,12 @@
 # PrismifyAI - The Spectrum of Creation with AI
 
-## 🌈 Welcome to the Future of Creative Content
+##  Welcome to the Future of Creative Content
 
 PrismifyAI is your all-in-one creative toolkit that harnesses the power of artificial intelligence to transform your ideas into reality. From writing compelling articles to generating stunning visuals, PrismifyAI offers the complete spectrum of AI-powered creative tools.
 
 ## 📸 Project Showcase
 
-### 🏠 Main Landing Page
+###  Main Landing Page
 ![AI Content Studio](./client/public/img1.png)
 *Experience the sleek and intuitive interface of PrismifyAI*
 
@@ -14,12 +14,12 @@ PrismifyAI is your all-in-one creative toolkit that harnesses the power of artif
 ![PrismifyAI Tools Overview](./client/public/img2.png)
 *Discover all six creative tools designed to supercharge your content creation*
 
-### ⚡ Tools in Action
+###  Tools in Action
 ![PrismifyAI Tools Demo](./client/public/img3.png)
 ![PrismifyAI Tools Demo](./client/public/img4.png)
 *See PrismifyAI's powerful features working seamlessly together*
 
-## ✨ Key Features
+##  Key Features
 
 🏠 **Dashboard** - Centralized hub to access all your creative tools and track your projects
 
@@ -37,7 +37,7 @@ PrismifyAI is your all-in-one creative toolkit that harnesses the power of artif
 
 👥 **Community** - Connect with other creators, share insights, and collaborate on projects
 
-## 🛠️ Technology Stack
+## 🛠 Technology Stack
 
 - **Frontend**: React.js with Vite
 - **Backend**: Node.js with Express.js
@@ -48,7 +48,7 @@ PrismifyAI is your all-in-one creative toolkit that harnesses the power of artif
 - **Image Storage**: Cloudinary
 - **Deployment**: Vercel/Netlify (Frontend) + Railway/Render (Backend)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -164,10 +164,10 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 📞 Support
 
-Need help? We're here for you:
+Need help? Contact:
 
 - 📧 Email: bhutiatsangchup@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/tsangchup/
+- 💼 LinkedIn: https://www.linkedin.com/in/tsangchup
 
 ## 📄 License
 
@@ -176,7 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <strong>Made with ❤️ by the PrismifyAI Team</strong>
+  <strong>Made with ❤️ by "tsangchup"</strong>
   <br>
   <em>Unleashing creativity through the spectrum of AI</em>
 </div>
