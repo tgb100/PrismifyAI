@@ -7,16 +7,16 @@ PrismifyAI is your all-in-one creative toolkit that harnesses the power of artif
 ## 📸 Project Showcase
 
 ### 🏠 Main Landing Page
-![PrismifyAI Landing Page](<img width="1918" height="866" alt="Image" src="https://github.com/user-attachments/assets/039063b2-8e78-4bce-9263-2250c6fe703d" />)
+![AI Content Studio](./client/public/img1.png)
 *Experience the sleek and intuitive interface of PrismifyAI*
 
 ### 🛠️ Six Powerful Tools at Your Fingertips
-![PrismifyAI Tools Overview](<img width="1918" height="868" alt="Image" src="https://github.com/user-attachments/assets/4f932689-5299-43bf-a7d1-e882e07f164e" />)
+![PrismifyAI Tools Overview](./client/public/img2.png)
 *Discover all six creative tools designed to supercharge your content creation*
 
 ### ⚡ Tools in Action
-![PrismifyAI Tools Demo](<img width="1918" height="872" alt="Image" src="https://github.com/user-attachments/assets/77c6494f-c751-47e0-b322-728685f67ef8" />)
-![PrismifyAI Tools Demo](<img width="1918" height="872" alt="Image" src="https://github.com/user-attachments/assets/2d3e1d7a-448a-4b15-b590-1342729dba91" />)
+![PrismifyAI Tools Demo](./client/public/img3.png)
+![PrismifyAI Tools Demo](./client/public/img4.png)
 *See PrismifyAI's powerful features working seamlessly together*
 
 ## ✨ Key Features
