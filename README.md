@@ -2,7 +2,7 @@
 
 ##  Welcome to the Future of Creative Content
 
-PrismifyAI is your all-in-one creative toolkit that harnesses the power of artificial intelligence to transform your ideas into reality. From writing compelling articles to generating stunning visuals, PrismifyAI offers the complete spectrum of AI-powered creative tools.
+PrismifyAI is your all-in-one AI toolkit for writing compelling articles, generating stunning visuals, and bringing your creative ideas to life.
 
 ## 📸 Project Showcase
 
@@ -162,13 +162,6 @@ We welcome contributions from the community! Here's how you can help:
 - [ ] API marketplace for third-party integrations
 - [ ] Advanced analytics and insights
 
-## 📞 Support
-
-Need help? Contact:
-
-- 📧 Email: bhutiatsangchup@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/tsangchup
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -176,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <strong>Made with ❤️ by "tsangchup"</strong>
+  <strong>Developed by tgb100</strong>
   <br>
   <em>Unleashing creativity through the spectrum of AI</em>
 </div>
